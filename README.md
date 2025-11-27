@@ -10,7 +10,7 @@
       direction: rtl;
       font-family: sans-serif;
       background: #222;
-      olor: #fff;
+      color: #fff;
       text-align: center;
       padding-top: 20px;
     }
